@@ -1,0 +1,3 @@
+D:/Code/Universidade/Laboratorios de Algoritmia/Ficha3/cmake-build-debug/CMakeFiles/Ficha3.dir
+D:/Code/Universidade/Laboratorios de Algoritmia/Ficha3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/Universidade/Laboratorios de Algoritmia/Ficha3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
