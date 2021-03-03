@@ -52,7 +52,7 @@ int main() {
                     strcpy(tipo, "ESCALENO");
             }
         }
-        printf("%s %d %.2f\n", tipo, per, area);
+        printf("%s %d %.2f\n" , tipo, per, area);
     } else {
         printf("INVALIDO\n");
     }
