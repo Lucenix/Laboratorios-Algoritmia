@@ -6,7 +6,6 @@ void desenha();
 void regista();
 
 int main() {
-
     int arvore[10][10] = {0};
     regista(10, arvore);
     desenha(10, arvore);
@@ -25,16 +24,7 @@ void regista(int N, int arvore[N][N]) {
 }
 
 void desenha(int N, int arvore[N][N]) {
-    //int *a = arvore[0];
-
     FORN(i, 10) {
-        //printf("%x ", a);
-        //printf("%d\n", *a);
-        //a += 10;
-        //int *b = arvore[i];
-        //printf("%x ", b);
-        //printf("%d\n", *b);
-
         printf("%d|", i);
         FORN(j,10) {
             int k = arvore[i][j];
